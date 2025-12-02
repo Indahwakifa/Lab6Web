@@ -65,7 +65,7 @@ Menggunakan class .bg-dark dan .text-white agar tampil kontras dengan halaman ut
 
 **PORTOFOLIO**
 
-![foto](  <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Proyek 1">) 
+![foto](https://github.com/Indahwakifa/Lab6Web/blob/afa724ebb56505f817397c8443ed69285eb88075/Screenshot%202025-10-29%20112747.png) 
 
 **Penjelasan**
 
